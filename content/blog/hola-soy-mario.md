@@ -1,10 +1,10 @@
 ---
-title: "My Awesome Blog Post"
-date: 2019-11-23T15:28:43+06:00
+title: "Hola soy Mario Ubaldo y este es mi post"
+date: 2020-11-23T15:28:43+06:00
 draft: false
 
 # post author
-author : "themefisher"
+author : "mario"
 
 # post thumb
 image: "images/blog/blog-1.jpg"
@@ -13,8 +13,8 @@ image: "images/blog/blog-1.jpg"
 description: "this is meta description"
 
 # taxonomies
-categories: ["Creative"]
-tags: ["Photos", "HTML", "Book", "New"]
+categories: ["Go Language"]
+tags: ["Photos", "HTML", "Python", "New", "Nuevas"]
 # post type
 type: "post"
 ---
